@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on security research.
 - 🌱 I’m currently learning Coding,sharing.                          
-- 👯 I'm trying to be an open source spirit, a research spirit.
+- 👯 I'm trying to be more open-source, research-spirited.
 
 
 
